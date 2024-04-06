@@ -1,9 +1,20 @@
-#include <iostream>
+//===============================================================================//
+// Assessment 1
 
+#include <iostream>
+using namespace std;
 int main()
 {
-  std::cout << "Line One\n";
-  std::cout << "Line Two\n";
-  std::cout << "Line Three\n";
+  cout << "Line One\n";
+  cout << "Line Two \n";
+  cout << "Line Three";
   return 0;
 }
+// // Output
+
+// Line One
+// Line Two
+// Line Three
+
+//===============================================================================//
+
